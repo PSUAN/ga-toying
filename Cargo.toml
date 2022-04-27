@@ -1,0 +1,9 @@
+[package]
+name = "ga-toying"
+version = "0.1.0"
+edition = "2021"
+publish = false
+authors = ["PSUAN collective", "Hara Red <rtc6fg4.fejg2@gmail.com>"]
+license = "MIT"
+
+[dependencies]
